@@ -1,0 +1,11 @@
+{
+  "name": "track-with-canada-post",
+  "version": "1.0.0",
+  "description": "chrome extention to search canada post by right clicking on a tracking number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael wheeler",
+  "license": "ISC"
+}
